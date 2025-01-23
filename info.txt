@@ -1,1 +1,3 @@
 This is my text file.
+
+I am modifying the info about the project. 
